@@ -249,4 +249,3 @@ Conclusão
 
 Pivotagem é uma técnica fundamental para manipulação de dados, especialmente quando você está lidando com diferentes formatos de dados (longos e largos). Com as funções pivot_wider() e pivot_longer(), você pode facilmente reestruturar seus dados de acordo com as necessidades da análise. Lembre-se de praticar para se familiarizar com o uso dessas funções e entender como elas funcionam em diferentes cenários!
   
-  Boa sorte na sua prova! Se tiver mais dúvidas, é só avisar! 😊
